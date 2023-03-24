@@ -2,11 +2,13 @@
 .container{
 	padding: 20px;
 	background-color:#F5F5F5;
+	width:80%;
 }
 .item{
 	background-color:white;
 	padding: 10px;
-	border:1px solid black;
+	border:1px solid gray;
+	font-size:11px;
 }
 .author{
 	text-align: end;
